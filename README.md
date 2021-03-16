@@ -1,6 +1,6 @@
 
 # mytest
-   Scripts LocationRect  enable -->   IsActive2   enable ---> Model AutoRec  
+  
     1.   Installing the Arcgis SDK  
     2.		Note: Currentsky (hdrp)  
     3.    	ArcGisRenrderComponents.cs  add the code:  
@@ -18,6 +18,7 @@
 		}  
     
     4. run PrefabScene.sence  
+    5. Scripts LocationRect  enable -->   IsActive2   enable ---> Model AutoRec     
     
     
     
